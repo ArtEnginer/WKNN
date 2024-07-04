@@ -104,3 +104,4 @@ class App(customtkinter.CTk):
 
     def prediksi_button_event(self):
         self.select_frame_by_name("prediksi")
+        self.prediksi_frame.refreshData()
