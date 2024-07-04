@@ -1,0 +1,15 @@
+customtkinter
+darkdetect~=0.3.1
+typing-extensions~=4.4.0
+packaging
+scikit-learn
+pandas
+matplotlib
+pillow
+SQLAlchemy
+python-tkdnd
+tk
+CTkTable
+tksheet
+sqlalchemy_serializer
+CTkMessagebox
